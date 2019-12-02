@@ -1,5 +1,5 @@
 {
-  ac: true,
+  ac: false,
   de: false,
   rd: "https://example.com/"
 }
